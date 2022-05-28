@@ -18,13 +18,11 @@ from django.urls import path,re_path
 from django.conf.urls import include
 from django.contrib import admin
 from django.contrib.auth import views
-from django.views.static import serve
-from django.conf.urls import url
+
 
 urlpatterns = [
 
     re_path(r'^admin/', admin.site.urls),
     path(r'',include('my_app.urls')),
-    url(r'^media/(?P<path>.*)$', serve,{'document_root':       settings.MEDIA_ROOT}), 
-    url(r'^static/(?P<path>.*)$', serve,{'document_root': settings.STATIC_ROOT}), 
+    
 ]
