@@ -1,6 +1,6 @@
 # msengage2022
--> Languages used :
-   front-end - html,css,js
+-> Languages used :  <br />
+   front-end - html,css,js <br />
    backend - django
    algorithm - python
 -> Main logic of the application i.e; algorithms to recommend movies (content based filtering) and movies classification (and suggestion) based on genres is in 
