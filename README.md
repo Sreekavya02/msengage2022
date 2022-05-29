@@ -14,8 +14,7 @@
 -> This is my first website building so bugs frequently gave me a hard time but I took on those challenges and learnt many things while resolving them   <br />
 -> Application performance(server response speed) can be increased if we store all these details of movies in movie model rather than fetching it from an api <br />
     (couldn't implement this because there are only 10 days to do this project because of my semester exams till May 19)   <br />
-    
-    <br />
+ 
 
 -> References followed = https://developers.google.com/machine-learning/recommendation/content-based/basics <br />
                          https://www.youtube.com/watch?v=OTmQOjsl0eg&t=7117s   (django learning)   <br />
