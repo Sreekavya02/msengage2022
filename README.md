@@ -8,7 +8,7 @@
 -> Model is created by processing 5000 Movies dataset collected from tmdb  <br />
 -> to run the application in your local system run command  <br />
     python manage.py runserver   <br />
--> Api key used to fetch movie details of a particular movie with it's id is <br />
+-> Api key used in my_app/algorithm.py file to fetch movie details of a particular movie with it's id is <br />
     9efcaddf4cc2015dfec426a229f2768d (tmdb)  <br />
 ->  Password hashers used - bcrypt,django[argon2]  <br />
 -> This is my first website building so bugs frequently gave me a hard time but I took on those challenges and learnt many things while resolving them   <br />
